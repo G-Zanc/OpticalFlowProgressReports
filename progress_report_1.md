@@ -42,8 +42,8 @@ We did have to comment out some lines of code (that were negligible to the solut
 
 | Video File    | Original Solution Accuracy | Original Solution Time | Frame Skipped Accuracy | Frame Skipped Time |
 | ------------- | -------------------------- | ---------------------- | ---------------------- | ------------------ |
-| 4p1b_01A2.m4v |                            |                        |                        |                    |
-| 5p2b_01A1.m4v |                            |                        |                        |                    |
-| 5p4b_01A2.m4v | 92%                        | 97.464 s               | 73%                    | 41.653 s           |
-| 5p5b_03A1.m4v |                            |                        |                        |                    |
+| 4p1b_01A2.m4v | 93%                        | 1m5.621s               |                        | 24.151s            |
+| 5p2b_01A1.m4v | 93%                        | 2m15.272s              | 50%                    | 45.203s            |
+| 5p4b_01A2.m4v | 92%                        | 97.464 s               | 73%                    | 41.653s            |
+| 5p5b_03A1.m4v | 48%                        | 1m19.856s              | 30%                    | 26.226s            |
 | 7p3b_02M.m4v  |                            |                        |                        |                    |
